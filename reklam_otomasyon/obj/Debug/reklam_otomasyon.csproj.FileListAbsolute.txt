@@ -1,0 +1,27 @@
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.exe.config
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.exe
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.pdb
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.Form1.resources
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.csproj.GenerateResource.Cache
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.exe
+c:\users\emre\documents\visual studio 2013\Projects\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.pdb
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.exe.config
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.exe
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.pdb
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.exe
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.pdb
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.Form1.resources
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.Properties.Resources.resources
+C:\Users\emre\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.csproj.GenerateResource.Cache
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.exe.config
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.exe
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.pdb
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.exe
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\bin\Debug\reklam_otomasyon.pdb
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.Form1.resources
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.Properties.Resources.resources
+C:\Users\pcc\Desktop\reklam_otomasyon\reklam_otomasyon\obj\Debug\reklam_otomasyon.csproj.GenerateResource.Cache
